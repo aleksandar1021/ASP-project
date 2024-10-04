@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE200B-D9E9-45C6-9EC5-E5F1649DF359}|Recipe.Implementation\\Recipe.Implementation.csproj|c:\\users\\aleks\\desktop\\aleksadar kandic 10-21 asp projekat\\recipe\\recipe.implementation\\usecases\\queries\\follows\\efgetfollowsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AE200B-D9E9-45C6-9EC5-E5F1649DF359}|Recipe.Implementation\\Recipe.Implementation.csproj|solutionrelative:recipe.implementation\\usecases\\queries\\follows\\efgetfollowsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCACA98D-4825-44B9-8A9E-71114761DC71}|Recipe.Application\\Recipe.Application.csproj|c:\\users\\aleks\\desktop\\aleksadar kandic 10-21 asp projekat\\recipe\\recipe.application\\dto\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCACA98D-4825-44B9-8A9E-71114761DC71}|Recipe.Application\\Recipe.Application.csproj|solutionrelative:recipe.application\\dto\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE200B-D9E9-45C6-9EC5-E5F1649DF359}|Recipe.Implementation\\Recipe.Implementation.csproj|c:\\users\\aleks\\desktop\\aleksadar kandic 10-21 asp projekat\\recipe\\recipe.implementation\\usecases\\commands\\categories\\efcreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AE200B-D9E9-45C6-9EC5-E5F1649DF359}|Recipe.Implementation\\Recipe.Implementation.csproj|solutionrelative:recipe.implementation\\usecases\\commands\\categories\\efcreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0569EC-0494-4850-97E1-120BAF16CD8C}|recipe.DataAccess\\Recipe.DataAccess.csproj|c:\\users\\aleks\\desktop\\aleksadar kandic 10-21 asp projekat\\recipe\\recipe.dataaccess\\recipe.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB0569EC-0494-4850-97E1-120BAF16CD8C}|recipe.DataAccess\\Recipe.DataAccess.csproj|solutionrelative:recipe.dataaccess\\recipe.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE8D41F-6ADC-40A5-99E2-C5E00DE3F77D}|Recipe.API\\Recipe.API.csproj|c:\\users\\aleks\\desktop\\aleksadar kandic 10-21 asp projekat\\recipe\\recipe.api\\controllers\\initialdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE8D41F-6ADC-40A5-99E2-C5E00DE3F77D}|Recipe.API\\Recipe.API.csproj|solutionrelative:recipe.api\\controllers\\initialdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 423,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfGetFollowsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.Implementation\\UseCases\\Queries\\Follows\\EfGetFollowsQuery.cs",
+              "RelativeDocumentMoniker": "Recipe.Implementation\\UseCases\\Queries\\Follows\\EfGetFollowsQuery.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.Implementation\\UseCases\\Queries\\Follows\\EfGetFollowsQuery.cs",
+              "RelativeToolTip": "Recipe.Implementation\\UseCases\\Queries\\Follows\\EfGetFollowsQuery.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:08:11.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.Application\\DTO\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Recipe.Application\\DTO\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.Application\\DTO\\PagedResponse.cs",
+              "RelativeToolTip": "Recipe.Application\\DTO\\PagedResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:07:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfCreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Recipe.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "RelativeToolTip": "Recipe.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:31:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recipe.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\recipe.DataAccess\\Recipe.DataAccess.csproj",
+              "RelativeDocumentMoniker": "recipe.DataAccess\\Recipe.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\recipe.DataAccess\\Recipe.DataAccess.csproj",
+              "RelativeToolTip": "recipe.DataAccess\\Recipe.DataAccess.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T15:12:46.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitialDataController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\Controllers\\InitialDataController.cs",
+              "RelativeDocumentMoniker": "Recipe.API\\Controllers\\InitialDataController.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\Controllers\\InitialDataController.cs",
+              "RelativeToolTip": "Recipe.API\\Controllers\\InitialDataController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwOwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:19:43.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
