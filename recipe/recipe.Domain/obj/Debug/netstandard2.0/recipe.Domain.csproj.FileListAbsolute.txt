@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\recipe\recipe.Domain\bin\Debug\netstandard2.0\recipe.Domain.deps.json
+C:\Users\aleks\Desktop\recipe\recipe.Domain\bin\Debug\netstandard2.0\recipe.Domain.dll
+C:\Users\aleks\Desktop\recipe\recipe.Domain\bin\Debug\netstandard2.0\recipe.Domain.pdb
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.dll
+C:\Users\aleks\Desktop\recipe\recipe.Domain\obj\Debug\netstandard2.0\recipe.Domain.pdb

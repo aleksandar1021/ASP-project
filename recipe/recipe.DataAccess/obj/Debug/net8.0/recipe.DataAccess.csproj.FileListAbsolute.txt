@@ -1,0 +1,51 @@
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\bin\Debug\net8.0\recipe.DataAccess.deps.json
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\bin\Debug\net8.0\recipe.DataAccess.runtimeconfig.json
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\bin\Debug\net8.0\recipe.DataAccess.dll
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\bin\Debug\net8.0\recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\bin\Debug\net8.0\recipe.Domain.dll
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\bin\Debug\net8.0\recipe.Domain.pdb
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.AssemblyInfo.cs
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.dll
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\refint\recipe.DataAccess.dll
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\recipe.DataAccess.genruntimeconfig.cache
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\ref\recipe.DataAccess.dll
+C:\Users\aleks\Desktop\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.D.8930208A.Up2Date
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.AssemblyInfo.cs
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\refint\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.deps.json
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.runtimeconfig.json
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.D.8930208A.Up2Date
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.genruntimeconfig.cache
+C:\Users\aleks\Desktop\backup2\recipe\recipe.DataAccess\obj\Debug\net8.0\ref\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.deps.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.runtimeconfig.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.D.8930208A.Up2Date
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\refint\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\Recipe.DataAccess.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\recipe.DataAccess\obj\Debug\net8.0\ref\Recipe.DataAccess.dll

@@ -1,0 +1,57 @@
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.deps.json
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Application.dll
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Application.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.AssemblyInfo.cs
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.I.5CC55F7F.Up2Date
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\refint\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.Implementation\obj\Debug\net8.0\ref\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.deps.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Application.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Application.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.AssemblyInfo.cs
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.I.5CC55F7F.Up2Date
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\refint\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.Implementation\obj\Debug\net8.0\ref\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.deps.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Application.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Application.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.I.5CC55F7F.Up2Date
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\refint\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.Implementation\obj\Debug\net8.0\ref\Recipe.Implementation.dll

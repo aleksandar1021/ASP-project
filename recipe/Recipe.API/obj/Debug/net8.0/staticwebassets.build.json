@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "dKfXVn+/qrgML/1rC2wqLwqEQvntC0MLrlTJQ+jIxOM=",
+  "Source": "Recipe.API",
+  "BasePath": "_content/Recipe.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Recipe.API\\wwwroot",
+      "Source": "Recipe.API",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\",
+      "BasePath": "_content/Recipe.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\recipePhotos\\image1.jpg",
+      "SourceId": "Recipe.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\",
+      "BasePath": "_content/Recipe.API",
+      "RelativePath": "recipePhotos/image1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\recipePhotos\\image1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\recipePhotos\\image2.jpg",
+      "SourceId": "Recipe.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\",
+      "BasePath": "_content/Recipe.API",
+      "RelativePath": "recipePhotos/image2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\recipePhotos\\image2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\userPhotos\\avatar.png",
+      "SourceId": "Recipe.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\Aleksadar Kandic 10-21 ASP Projekat\\recipe\\Recipe.API\\wwwroot\\",
+      "BasePath": "_content/Recipe.API",
+      "RelativePath": "userPhotos/avatar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userPhotos\\avatar.png"
+    }
+  ]
+}

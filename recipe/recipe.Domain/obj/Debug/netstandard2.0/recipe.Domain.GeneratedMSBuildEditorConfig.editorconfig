@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = recipe.Domain
+build_property.ProjectDir = C:\Users\aleks\Desktop\recipe\recipe.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

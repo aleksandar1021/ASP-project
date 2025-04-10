@@ -1,0 +1,250 @@
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.exe
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.deps.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.runtimeconfig.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Application.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Application.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfo.cs
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.Recipe.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Recipe.API.props
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Recipe.API.props
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Recipe.API.props
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\scopedcss\bundle\Recipe.API.styles.css
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.Up2Date
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\refint\Recipe.API.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.pdb
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.genruntimeconfig.cache
+C:\Users\aleks\Desktop\recipe\Recipe.API\obj\Debug\net8.0\ref\Recipe.API.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.staticwebassets.runtime.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfo.cs
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\refint\Recipe.API.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.staticwebassets.runtime.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.exe
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.deps.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.runtimeconfig.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Application.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Application.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.Recipe.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Recipe.API.props
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Recipe.API.props
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Recipe.API.props
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\scopedcss\bundle\Recipe.API.styles.css
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.Up2Date
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.genruntimeconfig.cache
+C:\Users\aleks\Desktop\backup2\recipe\Recipe.API\obj\Debug\net8.0\ref\Recipe.API.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\aleks\Desktop\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.staticwebassets.runtime.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.exe
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.deps.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.runtimeconfig.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Application.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.DataAccess.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Domain.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Implementation.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Application.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.DataAccess.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Domain.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\bin\Debug\net8.0\Recipe.Implementation.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.Recipe.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Recipe.API.props
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Recipe.API.props
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Recipe.API.props
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\scopedcss\bundle\Recipe.API.styles.css
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.Up2Date
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\refint\Recipe.API.dll
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.pdb
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Aleksadar Kandic 10-21 ASP Projekat\recipe\Recipe.API\obj\Debug\net8.0\ref\Recipe.API.dll
